@@ -62,7 +62,7 @@
     "rimraf": "^2.6.2",
     "sequelize": "^4.28.1",
     "serve-favicon": "^2.3.0",
-    "sharp": "^0.18.4",
+    "sharp": "^0.30.5",
     "sprint-js": "~0.1.0",
     "sqlite3": "^3.1.13",
     "stackify-logger": "^1.0.6",
