@@ -34,7 +34,7 @@
     "express-jwt": "^5.0.0",
     "express-session": "^1.11.3",
     "express-validation": "^1.0.2",
-    "fast-json-patch": "^2.0.6",
+    "fast-json-patch": "^3.1.1",
     "font-awesome": ">=4.1.0",
     "geo-tz": "^3.3.4",
     "geolib": "^2.0.23",
